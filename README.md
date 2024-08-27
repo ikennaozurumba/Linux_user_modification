@@ -2,4 +2,5 @@
 
 A repository detailing how to create and modify users and groups in linux
 
-Author: Ikenna Ozurumba
+## Author
+Ikenna Ozurumba
